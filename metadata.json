@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "ClipAssist",
+  "description": "SaaS video clipping tool frontend",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
